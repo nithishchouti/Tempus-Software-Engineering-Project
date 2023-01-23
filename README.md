@@ -10,4 +10,4 @@ This project is created by:
  - Shaikh Ammar
  - Karan Naik
 
-Find the word doc file in the repository to get more infor about the project.
+Find the word doc file in the repository to get more info about the project.
