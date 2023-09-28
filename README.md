@@ -1,8 +1,28 @@
-# Getting Started with Create React App
+# TEMPUS - Software Engineering Project
+
+Tempus is a web application for small business owners and freelancers for time tracking an invoice generation.
+
+## Contents of the Repository: 
+
+1) UML DIAGRAMS
+2) SEQUENCE DIAGRAMS
+3) FEASIBILITY STUDY
+4) PPT
+5) CODE
+6) FINAL REPORT
+
+## Team members:
+
+1) Nithish Chouti
+2) Karan Naik
+3) Shaikh Ammar
+4) Shriya Patare
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
